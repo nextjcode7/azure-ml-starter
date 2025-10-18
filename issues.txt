@@ -1,0 +1,2 @@
+# Planning
+Mock third-party libraries that cause side effects
